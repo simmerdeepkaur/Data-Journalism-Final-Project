@@ -77,7 +77,7 @@ __Steps:__
 * Inserted ‘country’ in rows. <br>
 * Organized the country row by ‘descending’ order and sorted by ‘COUNTA of full name.’ <br>
 * Used COUNTA for sorting values so that the pivot table counts everything including numbers and text, and not just numeric values. <br>
-
+![Number of journalists killed in each country](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Ranking%20of%20Countries%20in%20Terms%20of%20Number%20of%20Executions%20.csv)
 
 
 __Question 2:__ How did the number of deaths and imprisonments change before, during and after the USA occupied Afghanistan, between 1992-2023? <br>
