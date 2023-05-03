@@ -1,0 +1,22 @@
+Country,Type Of Death,Sources Of Fire,COUNTA of Full Name
+Afghanistan,Murder,,3
+,,Criminal Group,2
+,,Local Residents,1
+,,Paramilitary Group,4
+,,Political Group,20
+,Murder Total,,30
+,N/A,,19
+,,"Government Officials,Political Group",1
+,,Political Group,2
+,,Unknown,1
+,N/A Total,,23
+,Dangerous Assignment,,1
+,,Government Officials,1
+,,"Government Officials,Political Group",1
+,,Political Group,10
+,Dangerous Assignment Total,,13
+,Crossfire,Military Officials,5
+,,Political Group,8
+,Crossfire Total,,13
+Afghanistan Total,,,79
+Grand Total,,,79
