@@ -103,6 +103,9 @@ __Steps:__
 * Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
 * Next, I created a new spreadsheet and manually entered the entries of imprisonment. I collected this data from the CPJ website, but since there was no option to download this dataset, I manually entered it. <br>
 * Finally, I created a new table, combining the entries of both killings and imprisonment. <br>
+__First Pivot Table:__ (https://docs.google.com/spreadsheets/d/1RNGkXAhT6N41vJlNs5OoLhUuHdKYMWqb0FLblOrbgWg/edit#gid=29405273)
+[!Change in the number of deaths and imprisonments over the years](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/No%20of%20deaths%20%26%20imprisnment.png)
+
 
 
 
