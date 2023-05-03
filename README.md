@@ -150,7 +150,7 @@ __Steps:__
 _Email id: khwagaghani2391@berkeley.edu_ <br>
 * __Lina Shirzad__ - I used her voice to provide more depth and dimension to the story <br>
 _Email id: linashirzad64@gmail.com_ <br>
-*__Anna Brakha__ - An expert with the Committee to Protect Journalists <br>
+* __Anna Brakha__ - An expert with the Committee to Protect Journalists <br>
 _Email id: abrakha@cpj.org_
 
 
