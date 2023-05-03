@@ -1,4 +1,7 @@
 # From Kabul to California - The Jouney of an Exiled Journalist
+_As conflicts emerge in different corners of the world, journalists brave enough to fight the power are forced to abandon their motherland and live in exile. Khwaga Ghani is one such journalist who was able to escape the Taliban rule in her country and eventually ended up in California's Bay Area. Read the full story here._ <br>
+
+__By Simmerdeep Kaur__ <br>
 
 As Afghanistan collapsed on August 15, 2021, so did Khwaga Ghani’s dreams and goals for her motherland. In the end, she had no option but to flee her home. Now, she lives in California’s San Francisco Bay Area, a life circumstantially chosen for her, in exile. 
 
