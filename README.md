@@ -62,7 +62,7 @@ Many more journalists like them had to flee their motherland due to the continui
 
 According to data collected by the Committee to Protect Journalists, 2,195 journalist executions have been recorded across the globe between 1992-2023. Out of these, 79 are recorded in Afghanistan. “Everything that is happening at the moment paradoxically makes the profession (of journalism) all the more important,” said Anna Brakha, a Europe and Central Asia researcher with CPJ. 
 
-![A bar chart representing which groups executed journalists in Afghanistan from 1992-2023 and the number of journalists killed by each of them.](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Bar%20Chart_Groups%20Responsible%20For%20Killings%20in%20Afghanistan.png)  https://datawrapper.dwcdn.net/eKdjq/1/
+![A bar chart representing which groups executed journalists in Afghanistan from 1992-2023 and the number of journalists killed by each of them.](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Data%20Visualization%20Bar%20Chart.png) https://datawrapper.dwcdn.net/48Vyb/1/
 
 
 These journalists come from different countries and political contexts but have met the same fate of either execution or exile. Their journeys are a mirror to the brutal truth of the dying press freedom globally. 
