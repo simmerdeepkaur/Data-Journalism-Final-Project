@@ -66,7 +66,14 @@ According to data collected by the Committee to Protect Journalists, 2,195 journ
 
 These journalists come from different countries and political contexts but have met the same fate of either execution or exile. Their journeys are a mirror to the brutal truth of the dying press freedom globally. 
 
-# Data Diary
+# Data Diary 
+
+I worked with two data collected by the Committee to Protect Journalists. One of them records the data of journalists killed in different countries across the globe between 1992-2023, and the second dataset deals with journalists imprisoned during the same years. <br>
+__Dataset 1__ <br>
+https://docs.google.com/spreadsheets/d/1RNGkXAhT6N41vJlNs5OoLhUuHdKYMWqb0FLblOrbgWg/edit#gid=1094018745 <br>
+__Dataset 2__ <br>
+https://docs.google.com/spreadsheets/d/1RNGkXAhT6N41vJlNs5OoLhUuHdKYMWqb0FLblOrbgWg/edit#gid=518864641 <br>
+
 
 ## Data Analysis
 
