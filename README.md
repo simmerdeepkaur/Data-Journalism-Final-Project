@@ -119,7 +119,7 @@ __Steps:__
 
 
 __Question 5:__ How were these journalists killed in Afghanistan and who killed them?<br>
-__Answer:__ <br>
+__Answer:__<br>
 __Steps:__
 * Inserted a new pivot table.<br>
 * Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
