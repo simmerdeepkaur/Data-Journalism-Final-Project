@@ -71,7 +71,7 @@ These journalists come from different countries and political contexts but have 
 
 # Data Diary 
 
-I worked with two data collected by the Committee to Protect Journalists. One of them records the data of journalists killed in different countries across the globe between 1992-2023, and the second dataset deals with journalists imprisoned during the same years. <br>
+I worked with two data sets collected by the Committee to Protect Journalists. One of them records the data of journalists killed in different countries across the globe between 1992-2023, and the second dataset deals with journalists imprisoned during the same years. <br>
 __Dataset 1__ <br>
 https://docs.google.com/spreadsheets/d/1RNGkXAhT6N41vJlNs5OoLhUuHdKYMWqb0FLblOrbgWg/edit#gid=1094018745 <br>
 __Dataset 2__ <br>
