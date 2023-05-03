@@ -28,7 +28,7 @@ In 2021, Kabul fell again. The US withdrew its last remaining forces from Afghan
 
 When this news broke out, Ghani was working with Amnesty International on a report about war crimes. Her fellow researcher at the time, who had come from New York, immediately rushed to the airport. As for Ghani, she went back home and stayed indoors for four days. She was desperate for any opportunity to escape with her family because she knew home wouldn’t be safe for much longer.
 
-After almost 100 hours, Ghani received a call from a friend at Vice News. He connected her to a coordinator who was escorting journalists to a safe house in Kabul. Ghani and her family left immediately. They had neither the time nor the space to carry luggage. Ghani had heard that the Taliban were forcefully seizing documents so people couldn’t leave the country. But she also knew the Taliban wouldn’t touch women. So she hid her documents under her abaya. She reached the safehouse with her parents and sister. Their journey, however, was far from over.
+After almost 100 hours, Ghani received a call from a friend at Vice News. He connected her to a coordinator who was escorting journalists to a safe house in Kabul. Ghani and her family left immediately. They had neither the time nor the space to carry luggage. Ghani had heard that the Taliban were forcefully seizing documents so people couldn’t leave the country. But she also knew the Taliban wouldn’t touch women. So she hid her documents under her _abaya_. She reached the safehouse with her parents and sister. Their journey, however, was far from over.
 
 The next step was finding a way to fly out of the country. After staying at the safehouse for another four days, she received a call again. This time, it was a friend from the New Yorker, who had chartered a plane solely for journalists, that would fly from Kabul to Macedonia and then to the US.
 
@@ -62,3 +62,71 @@ Many more journalists like them had to flee their motherland due to the continui
 According to data collected by the Committee to Protect Journalists, 2,195 journalist executions have been recorded across the globe between 1992-2023. “Everything that is happening at the moment paradoxically makes the profession (of journalism) all the more important,” said Anna Brakha, a Europe and Central Asia researcher with CPJ. 
 
 These journalists come from different countries and political contexts but have met the same fate of either execution or exile. Their journeys are a mirror to the brutal truth of the dying press freedom globally. 
+
+# Data Diary
+
+## Data Analysis
+
+__Question 1__ How many journalist killings were committed in each country between 1992-2023? Which countries have overseen the most deaths? What position was Afghanistan on this list? <br>
+__Answer__  Iraq (253), Philippines (156) and Syria (155) oversaw the most number of killings. Afghanistan was number 10 on the list, with a total of 79 deaths. The number of deaths in each country are mentioned in the table below. <br>
+__Steps__ 
+* Froze the first row of the main dataset (journalists and media workers killed between 1992 and 2023). <br>
+* Sorted the data from a-z in the year column, to have the entire dataset organized year wise. <br>
+* Clicked on insert and then pivot table, making sure my cursor is on the first cell of the table, so the range of the pivot table includes the whole dataset. <br>
+* While editing the pivot table, inserted ‘full name’ in the values, because that is a unique value for each entry, since no two journalists had the same full name. <br>
+* Inserted ‘country’ in rows. <br>
+* Organized the country row by ‘descending’ order and sorted by ‘COUNTA of full name.’ <br>
+* Used COUNTA for sorting values so that the pivot table counts everything including numbers and text, and not just numeric values. <br>
+
+
+
+__Question 2__ How did the number of deaths and imprisonments change before, during and after the USA occupied Afghanistan, between 1992-2023? <br>
+__Answer.__ Before the US occupied the country (1992-2000) = 2 killings <br>
+During (2000-2020) = 76 <br>
+After (2021-2023) = 3 imprisonments and 5 killings. <br>
+__Steps:__ 
+* Inserted a new pivot table. <br>
+* Added ‘full name’ in values and summarized by ‘COUNTA.’ <br>
+* Inserted ‘country’ in rows. Organized by ‘ascending’ order and sorted by ‘country.’<br>
+* Inserted ‘year’ in rows. Organized by ‘ascending’ order and sorted by ‘year.’<br>
+* Inserted ‘status’ in rows. Organized by ‘ascending’ order and sorted by ‘status.’<br>
+* Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
+* Next, I created a new spreadsheet and manually entered the entries of imprisonment. I collected this data from the CPJ website, but since there was no option to download this dataset, I manually entered it. <br>
+* Finally, I created a new table, combining the entries of both killings and imprisonment. <br>
+
+
+
+__Question 3.__ Which beats were the journalists covering who were targeted the most in Afghanistan?<br>
+__Answer.__ War, Politics and Human Rights (according to the data recorded; note that some entries are missing from the dataset).<br>
+__Steps:__
+* Inserted a new pivot table.<br>
+* Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
+* Inserted ‘country’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Inserted ‘coverage’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
+
+
+
+__Question 4.__ Which areas were the most targeted in Afghanistan?
+__Answer.__ Kabul (26 killings), Jalalabad (6 killings) and Kandahar (5 killings).
+__Steps:__
+* Inserted a new pivot table.<br>
+* Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
+* Inserted ‘country’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Inserted ‘location’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
+
+
+
+__Question 5.__ How were these journalists killed in Afghanistan and who killed them?
+__Answer.__ 
+__Steps:__
+* Inserted a new pivot table.<br>
+* Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
+* Inserted ‘country’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Inserted ‘type of death’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Inserted ‘sources of fire’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
+* Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
+
+
+
