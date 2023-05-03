@@ -114,7 +114,7 @@ __Steps:__
 * Inserted ‘country’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Inserted ‘coverage’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
-
+![Beats Covered by Jouranists Killed](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Beats%20covered%20by%20Journalists%20Killed.png) <br>
 
 
 __Question 4:__ Which areas were the most targeted in Afghanistan?<br>
