@@ -141,7 +141,7 @@ __Steps:__
 * Inserted ‘type of death’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Inserted ‘sources of fire’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
-![Types and Sources of Killings in Afghanistan](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Type%20%26%20Sources%20of%20Killings%20in%20Afghanistan.png)
+![Types of Killings in Afghanistan and Their Sources](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Types%20of%20killings%20and%20their%20sources.png)
 
 
 
