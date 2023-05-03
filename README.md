@@ -141,7 +141,17 @@ __Steps:__
 * Inserted ‘type of death’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Inserted ‘sources of fire’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
-![Types of Killings in Afghanistan and Their Sources](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Types%20of%20killings%20and%20their%20sources.png)
+![Types of Killings in Afghanistan and Their Sources](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Types%20of%20killings%20and%20their%20sources.png) <br>
+
+
+
+## Sources
+* __Khwaga Ghani__ - Main Subject of the Story <br>
+_Email id: khwagaghani2391@berkeley.edu_ <br>
+* __Lina Shirzad__ - I used her voice to provide more depth and dimension to the story <br>
+_Email id: linashirzad64@gmail.com_ <br>
+*__Anna Brakha__ - An expert with the Committee to Protect Journalists <br>
+_Email id: abrakha@cpj.org_
 
 
 
