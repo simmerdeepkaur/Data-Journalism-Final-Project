@@ -67,9 +67,9 @@ These journalists come from different countries and political contexts but have 
 
 ## Data Analysis
 
-__Question 1__ How many journalist killings were committed in each country between 1992-2023? Which countries have overseen the most deaths? What position was Afghanistan on this list? <br>
-__Answer__  Iraq (253), Philippines (156) and Syria (155) oversaw the most number of killings. Afghanistan was number 10 on the list, with a total of 79 deaths. The number of deaths in each country are mentioned in the table below. <br>
-__Steps__ 
+__Question 1:__ How many journalist killings were committed in each country between 1992-2023? Which countries have overseen the most deaths? What position was Afghanistan on this list? <br>
+__Answer:__  Iraq (253), Philippines (156) and Syria (155) oversaw the most number of killings. Afghanistan was number 10 on the list, with a total of 79 deaths. The number of deaths in each country are mentioned in the table below. <br>
+__Steps:__ 
 * Froze the first row of the main dataset (journalists and media workers killed between 1992 and 2023). <br>
 * Sorted the data from a-z in the year column, to have the entire dataset organized year wise. <br>
 * Clicked on insert and then pivot table, making sure my cursor is on the first cell of the table, so the range of the pivot table includes the whole dataset. <br>
@@ -80,8 +80,8 @@ __Steps__
 
 
 
-__Question 2__ How did the number of deaths and imprisonments change before, during and after the USA occupied Afghanistan, between 1992-2023? <br>
-__Answer.__ Before the US occupied the country (1992-2000) = 2 killings <br>
+__Question 2:__ How did the number of deaths and imprisonments change before, during and after the USA occupied Afghanistan, between 1992-2023? <br>
+__Answer:__ Before the US occupied the country (1992-2000) = 2 killings <br>
 During (2000-2020) = 76 <br>
 After (2021-2023) = 3 imprisonments and 5 killings. <br>
 __Steps:__ 
@@ -96,8 +96,8 @@ __Steps:__
 
 
 
-__Question 3.__ Which beats were the journalists covering who were targeted the most in Afghanistan?<br>
-__Answer.__ War, Politics and Human Rights (according to the data recorded; note that some entries are missing from the dataset).<br>
+__Question 3:__ Which beats were the journalists covering who were targeted the most in Afghanistan?<br>
+__Answer:__ War, Politics and Human Rights (according to the data recorded; note that some entries are missing from the dataset).<br>
 __Steps:__
 * Inserted a new pivot table.<br>
 * Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
@@ -107,8 +107,8 @@ __Steps:__
 
 
 
-__Question 4.__ Which areas were the most targeted in Afghanistan?
-__Answer.__ Kabul (26 killings), Jalalabad (6 killings) and Kandahar (5 killings).
+__Question 4:__ Which areas were the most targeted in Afghanistan?<br>
+__Answer:__ Kabul (26 killings), Jalalabad (6 killings) and Kandahar (5 killings).<br>
 __Steps:__
 * Inserted a new pivot table.<br>
 * Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
@@ -118,8 +118,8 @@ __Steps:__
 
 
 
-__Question 5.__ How were these journalists killed in Afghanistan and who killed them?
-__Answer.__ 
+__Question 5:__ How were these journalists killed in Afghanistan and who killed them?<br>
+__Answer:__ <br>
 __Steps:__
 * Inserted a new pivot table.<br>
 * Added ‘full name’ in values and summarized by ‘COUNTA.’<br>
