@@ -41,7 +41,7 @@ Ghani could not stay at the airport much longer and she could not go back home. 
 
 While leaving Germany, they finally had a legitimate answer. They were now boarding a flight to the Dulles International Airport in Washington DC. From there, they traveled to another military camp in Wisconsin called Fort McCoy. On October 8, they came out of the camp after all their official documents were processed. Once the formalities were sorted, they bought their tickets for San Francisco where Ghani’s brother had been living for the past four years. Her mother’s side of the family had previously moved to the Bay Area as well. In October 2021, the entire family united at the SF airport after 40 years. 
 
-![Data Locator Map_Khawaga Ghani's Journey Post Afghanistan Collapse](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Data%20Locator%20Map_Khwaga%20Ghani's%20Journey%20Post%20Afghanistan%20Collapse%20.png) 
+![Data Locator Map_Khawaga Ghani's Journey Post Afghanistan Collapse](https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Data%20Locator%20Map_Khwaga%20Ghani's%20Journey%20Post%20Afghanistan%20Collapse%20.png)https://datawrapper.dwcdn.net/RtYTc/1/
 
 Today, Ghani is a first-year student at the UC Berkeley Graduate School of Journalism and lives in Fremont with her family. She wishes for two things, to resume reporting for Afghanistan and to go back home. 
 
