@@ -1,0 +1,21 @@
+Country,Coverage,COUNTA of Full Name
+Afghanistan,,22
+,War,18
+,"Politics,War",13
+,"Human Rights,Politics,War",3
+,"Culture,Human Rights,Politics,War",3
+,Culture,3
+,"Crime,Politics,War",3
+,Politics,2
+,"Human Rights,War",2
+,"Culture,Politics,War",2
+,"Human Rights,War,Politics",1
+,"Human Rights,Politics,Culture",1
+,"Human Rights,Politics",1
+,Crime,1
+,"Corruption,Politics,War",1
+,"Business,Politics,War",1
+,"Business,Politics",1
+,"Business,Corruption,Crime,Culture,Human Rights,Politics,Sports,War",1
+Afghanistan Total,,79
+Grand Total,,79
