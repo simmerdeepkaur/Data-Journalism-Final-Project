@@ -125,7 +125,7 @@ __Steps:__
 * Inserted ‘country’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Inserted ‘location’ in rows. Organized by ‘descending’ order and sorted by ‘COUNTA of full name.’<br>
 * Selected ‘country’ in the filter option. Ticked off all countries, except Afghanistan.<br>
-
+__Pivot Table:__ https://github.com/simmerdeepkaur/Data-Journalism-Final-Project/blob/main/Ares%20of%20Afghanistan%20Where%20Journalists%20Were%20Most%20Targetted%20.csv
 
 
 __Question 5:__ How were these journalists killed in Afghanistan and who killed them?<br>
